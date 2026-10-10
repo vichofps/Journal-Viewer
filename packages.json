@@ -1,0 +1,7 @@
+[
+  { "package": "net.wurstclient",        "info": "Wurst Client paketi",            "level": "cheat" },
+  { "package": "net.ccbluex.liquidbounce","info": "LiquidBounce paketi",           "level": "cheat" },
+  { "package": "meteordevelopment",       "info": "Meteor Client paketi",          "level": "cheat" },
+  { "package": "me.jellysquid.mods.sodium","info": "Sodium paketi",                "level": "clean" },
+  { "package": "net.fabricmc",            "info": "Fabric Loader / API paketi",    "level": "clean" }
+]
